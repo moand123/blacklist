@@ -1,0 +1,7 @@
+# قائمة الحسابات المزعجة — حساب واحد بكل سطر
+# تقدر تكتب: username أو @username أو رابط الحساب كامل
+# الأسطر اللي تبدأ بـ # يتم تجاهلها
+
+@spam_account_1
+spam_account_2
+https://x.com/spam_account_3
